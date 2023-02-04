@@ -13,4 +13,4 @@ function reinitIframe() {
     }
 }
 //Test code
-//window.setInterval("reinitIframe()", 200);
+window.setInterval("reinitIframe()", 200);
