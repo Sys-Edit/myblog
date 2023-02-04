@@ -5,5 +5,4 @@
 > > 
 > > > 这是三层段落
 
-> <br><br><br>
-`MyBlog Powered by Markdown`
+> `MyBlog Powered by Markdown`
